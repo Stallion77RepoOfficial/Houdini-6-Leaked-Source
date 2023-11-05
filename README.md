@@ -8,6 +8,6 @@ Stockfish GNU lisansı ile korunduğundan hiçbir şekilde ticari varlığa veya
 
 Daha sonrasında Stockfish'e çok benzer oyun tarzı ve birkaç yerde verilen açıklar sonucunda bir Stockfish klonu olabilceğinden şüphelenilmiş ve yasal izinler alınarak tersine mühendislik işlemine başlanılmıştır. Yaklaşık 30 kişilik bir grup ile 1 ayda tamamen kaynak koduna dönüştürülmüştür.
 
-Ben de bu konuda Maç üzerindeki açık kaynaklı bir yazılım olan Cutter ile grup çalışmalarına dahil olmuştum. Şimdi ise bu kodu sizlerle paylaşıyorum.
+Ben de bu konuda Mac üzerindeki açık kaynaklı bir yazılım olan Cutter ile grup çalışmalarına dahil olmuştum. Şimdi ise bu kodu sizlerle paylaşıyorum.
 
 Kodda herhangi bir değişiklik yapılmamıştır bu yüzden lisans doğrulamasını ve diğer kilitli özellikleri dilerseniz kaldırıp derleyebilirsiniz.
