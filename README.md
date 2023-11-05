@@ -1,6 +1,6 @@
 ## Houdini-6-Leaked-Source
 
-Houdini, Belçikalı programcı Robert Houdart tarafından geliştirilen bir ÜCİ satranç motorudur.
+Houdini, Belçikalı programcı Robert Houdart tarafından geliştirilen bir UCI satranç motorudur.
 
 Açık kaynaklı bir motor olan Stoçkfish'in kodlarının neredeyse birebir kopyası olan (Lisans Kodu Doğrulaması ve birkaç yeni özellik dışında) bir motordur.
 
