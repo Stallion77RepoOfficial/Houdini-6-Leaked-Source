@@ -10,4 +10,4 @@ Daha sonrasında Stokfish'e çok benzer oyun tarzı ve birkaç yerde verilen aç
 
 Ben de bu konuda Maç üzerindeki açık kaynaklı bir yazılım olan Cutter ile grup çalışmalarına dahil olmuştum. Şimdi ise bu kodu sizlerle paylaşıyorum.
 
-Kodda herhnağı bir değişiklik yapılmamıştır bu yüzden lisans doğrulamasını ve diğer kilitli özellikleri dilerseniz kaldırıp derleyebilirsiniz.
+Kodda herhangi bir değişiklik yapılmamıştır bu yüzden lisans doğrulamasını ve diğer kilitli özellikleri dilerseniz kaldırıp derleyebilirsiniz.
